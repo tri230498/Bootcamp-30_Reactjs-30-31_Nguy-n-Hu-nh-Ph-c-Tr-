@@ -1,0 +1,15 @@
+.wrapper{
+    background-image: url('../../../public/img/background.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.mauThuKinh {
+    position: relative;
+
+}
+.kinh {
+    position: absolute;
+    left: 130px;
+    bottom: 230px;
+}
